@@ -1,0 +1,34 @@
+# Ignore Probing_ViTs directory
+tutorial/week6/Probing_ViTs/
+
+# Ignore .DS_Store files
+.DS_Store
+**/.DS_Store
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+venv/
+env/
+ENV/
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore large model files
+*.zip
+*.tar.gz
+*.pkl
+*.h5
+*.hdf5
